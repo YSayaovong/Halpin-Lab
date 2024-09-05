@@ -1,15 +1,10 @@
-# Halpin-Lab
+# Halpin Lab
 
-Implement Halpin Lab 3 , start pg 105
+This repository contains lab exercises and examples focused on data modeling and database design using the Halpin methodology. The exercises include creating and refining object-role models (ORM).
 
-1. Create Halpin Lab 3, include a screen shot
+### Features:
+- Data modeling using Halpin's methodology.
+- ORM lab exercises.
 
-Add a unique mandatory  additional Domain value type  to Patient--
+This project provides hands-on practice with data modeling and object-role model design.
 
-"YourNameHistory"
-
-make the data type varchar 200 
-
-2. show your  relational schema 
-
-3. Generate and show your sql code
